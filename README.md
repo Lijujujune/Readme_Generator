@@ -30,5 +30,5 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 N/A
 
 ## Questions
-If you have any questions, you can find me on GitHub: [Lijujujune](https://github.com/Lijujujune) or email me at liyejun12@gmail.com.
+If you have any questions, you can find me on GitHub: [jujujune](https://github.com/jujujune) or email me at dslfjds.
     
