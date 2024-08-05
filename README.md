@@ -5,6 +5,8 @@
 
 ## Description
 This is a Node.js for entering the project information and it will generate a Readme file.
+Github URL: https://github.com/Lijujujune/Readme_Generator
+Video URL: https://bootcampspot.instructuremedia.com/embed/78e93a6d-f68f-40d1-b943-d3fe69e89e79
 
 ## Table of Contents
 - [Installation](#installation)
