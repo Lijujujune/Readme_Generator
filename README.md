@@ -1,10 +1,10 @@
 
-# Hello
+# README Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-dkfjds
+This is a Node.js for entering the project information and it will generate a Readme file.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -15,20 +15,20 @@ dkfjds
 - [Questions](#questions)
 
 ## Installation
-ksdflk
+Inquirer
 
 ## Usage
-kdsfjklds
+Any person writing a code and want to public to github can use this.
 
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Contributing
-kdsjfkla
+100% done by June Li.
 
 ## Tests
-ksfjkal
+N/A
 
 ## Questions
-If you have any questions, you can find me on GitHub: [jujujune](https://github.com/jujujune) or email me at dslfjds.
+If you have any questions, you can find me on GitHub: [Lijujujune](https://github.com/Lijujujune) or email me at liyejun12@gmail.com.
     
